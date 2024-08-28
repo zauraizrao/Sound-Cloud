@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #141414;
+    color: #fff;
+}
+
+.content-wrapper {
+    padding: 20px;
+    background: #1c1c1c;
+}
+
+h1 {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+#alert_toast .toast-body {
+    background: #ff4d4d;
+    color: #fff;
+}
+
+#audio-player {
+    background: #232323;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.audio-control-btn {
+    color: #ffffff;
+}
+
+.audio-control-btn:hover {
+    color: #ff4d4d;
+}
+
+footer.main-footer {
+    background: #1c1c1c;
+    padding: 10px;
+    text-align: center;
+}
+
+footer.main-footer a {
+    color: #ff4d4d;
+}
+
+.toast-body {
+    background: #ff4d4d;
+    color: #ffffff;
+}
